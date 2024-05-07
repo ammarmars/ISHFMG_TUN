@@ -2,7 +2,7 @@
 ## Setup
 ### Install dependencies
 pip install -r requirements.txt
-
-ensembliste_method.py
+## Run
+### Run the file: ensembliste_method.py
 
 
